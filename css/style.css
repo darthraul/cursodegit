@@ -49,7 +49,7 @@ strong {
 
 #wrapper {
 	overflow: hidden;
-	padding-bottom: 3em;
+	padding-bottom: 2em;
 	background: #FFFFFF;
 }
 
@@ -64,7 +64,7 @@ strong {
 }
 
 #copyright p {
-	font-size: 1em;
+	font-size: 2em;
 	color: #333333;
 }
 
